@@ -1,8 +1,12 @@
-# coach_ui
+Flutter UI - Talent Hire Screen
 
-A new Flutter project.
+Screen recreated from a concept.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/4486758-Relationship-Coaching-App/attachments/1017305
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+How do I code like this ? - https://youtu.be/VE1IsV0HABs
+
+
+## Screenshots
+
+![sc](https://user-images.githubusercontent.com/8137504/46029511-41f54d00-c111-11e8-92f1-1533482eec16.png)
