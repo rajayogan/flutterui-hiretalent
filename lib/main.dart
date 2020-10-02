@@ -21,8 +21,8 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-      appBar: new AppBar(
-        title: new FlutterLogo(colors: Colors.green, size: 25.0),
+      appBar: AppBar(
+        title: FlutterLogo(colors: Colors.green, size: 25.1),
         elevation: 0.0,
         centerTitle: true,
         backgroundColor: Colors.white,
